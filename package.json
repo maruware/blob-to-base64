@@ -1,5 +1,5 @@
 {
-  "name": "file-to-base64",
+  "name": "@maruware/file-to-base64",
   "version": "0.0.1",
   "description": "File to base64",
   "main": "dist/index.js",
