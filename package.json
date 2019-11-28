@@ -1,7 +1,7 @@
 {
-  "name": "@maruware/file-to-base64",
+  "name": "@maruware/blob-to-base64",
   "version": "0.0.4",
-  "description": "File to base64",
+  "description": "Blob to base64",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/maruware/file-to-base64.git"
+    "url": "git+ssh://git@github.com/maruware/blob-to-base64.git"
   },
   "author": "maruware",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maruware/file-to-base64/issues"
+    "url": "https://github.com/maruware/blob-to-base64/issues"
   },
-  "homepage": "https://github.com/maruware/file-to-base64#readme",
+  "homepage": "https://github.com/maruware/blob-to-base64#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.9.0",
     "@typescript-eslint/parser": "^2.9.0",
