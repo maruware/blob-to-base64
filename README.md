@@ -7,6 +7,6 @@ Blob to base64
 import { blobToBase64 } from 'blob-to-base64'
 
 (async () => {
-    const data = await blobToBase64()
+    const data = await blobToBase64(blob)
 })()
 ```
