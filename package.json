@@ -1,6 +1,6 @@
 {
   "name": "@maruware/blob-to-base64",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Blob to base64",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
