@@ -1,12 +1,26 @@
 # blob-to-base64
 Blob to base64
 
+```
+yarn add @maruware/blob-to-base64
+```
+
 ## Usage
 
+### 
+
 ```ts
-import { blobToBase64 } from 'blob-to-base64'
+import { blobToBase64 } from '@maruware/blob-to-base64'
 
 (async () => {
-    const data = await blobToBase64(blob)
+    const b64 = await blobToBase64(blob)
+})()
+```
+
+```ts
+import { blobToDataUrl } from '@maruware/blob-to-base64'
+
+(async () => {
+    const dataUrl = await blobToDataUrl(blob)
 })()
 ```
